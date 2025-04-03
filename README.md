@@ -1,5 +1,5 @@
 ## Olá! Me chamo Murilo Henderson
-Acadêmico de Computação pela Universidade Federal Rural da Amazônia (UFRA)
+Acadêmico de Sistemas de Informação pela Universidade Federal Rural da Amazônia (UFRA)
 <div style="display: inline_block"><br>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=murilohenderson&theme=github_dark&show_icons=true">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilohenderson&layout=compact&langs_count=16&theme=github_dark"/>  
