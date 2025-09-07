@@ -1,17 +1,38 @@
-## Olá! Me chamo Murilo Henderson
-Acadêmico de Sistemas de Informação pela Universidade Federal Rural da Amazônia (UFRA)
+<h1 align="center">
+  <p>
+    Olá. Eu sou o <a href="https://www.linkedin.com/in/murilohenderson">Murilo Henderson</a>!
+  </p>
+</h1>
+  <p align="center">
+    Sou acadêmico de Sistemas de Informações na Universidade Federal Rural da Amazônia (UFRA). Com experiência em projetos sociais e conhecimentos nas áreas de desenvolvimento com Java, HTML, CSS e JavaScript.
+  </p>
+<div align="center"> 
+<div align="center"> 
+  
+  ***Para obter mais informações, confira meu portfólio clicando [aqui](https://portfolio-wine-beta-68.vercel.app/).***
+  
+</div>
 <div style="display: inline_block"><br>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=murilohenderson&theme=github_dark&show_icons=true">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilohenderson&layout=compact&langs_count=16&theme=github_dark"/>  
 </div>
-<img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
-
-<div> 
+<br>
+<h1 align="center">Tecnologias </h1>
+<p align="center">Abaixo está uma lista das tecnologias e bibliotecas que ja tive contato.</p>
+<div>
+  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/HTML.svg" width="45" align="center"> 
+  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/CSS.svg" width="45" align="center"> 
+  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Github.svg" width="45" align="center"> 
+  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/VSCode.svg" width="45" align="center"> 
+  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Java.svg" width="45" align="center"> 
+  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Javascript.svg" width="45" align="center"> 
+  <img alt="C"  width="45" align="center" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/C%2B%2B.svg">
+</div>
+<br>
+<div>
   <a href="https://instagram.com/murilo.henderson" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:acmurilohenderson@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/murilohenderson" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-  
 </div>
 <picture>  
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/murilohenderson/murilohenderson/output/github-contribution-grid-snake-dark.svg">  
