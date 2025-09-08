@@ -11,7 +11,8 @@
 <div align="center"> 
 <div align="center"> 
   
-  ***Para obter mais informações, confira meu portfólio clicando [aqui](https://portfolio-wine-beta-68.vercel.app/).***
+***Para obter mais informações, confira meu portfólio clicando <a href="https://portfolio-wine-beta-68.vercel.app/" target="_blank" rel="noopener noreferrer">aqui</a>.***
+
   
 </div>
 <div style="display: inline_block"><br>
