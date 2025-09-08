@@ -1,11 +1,13 @@
-<h1 align="center">
-  <p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=120&section=header"/>
+<div align="center">
+  <h1>
     Olá. Eu sou o <a href="https://www.linkedin.com/in/murilohenderson">Murilo Henderson</a>!
-  </p>
-</h1>
-  <p align="center">
+  </h1>
+  <p>
     Sou acadêmico de Sistemas de Informações na Universidade Federal Rural da Amazônia (UFRA). Com experiência em projetos sociais e conhecimentos nas áreas de desenvolvimento com Java, HTML, CSS e JavaScript.
   </p>
+</div>
+
 <div align="center"> 
 <div align="center"> 
   
