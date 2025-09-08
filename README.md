@@ -30,7 +30,6 @@
   <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/VSCode.svg" width="45" align="center"> 
   <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Java.svg" width="45" align="center"> 
   <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Javascript.svg" width="45" align="center"> 
-  <img alt="C"  width="45" align="center" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/C%2B%2B.svg">
 </div>
 <br>
 <div>
