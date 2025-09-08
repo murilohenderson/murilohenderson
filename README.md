@@ -4,7 +4,7 @@
     Olá, eu me chamo <a href="https://www.linkedin.com/in/murilohenderson">Murilo Henderson</a>!
   </h1>
   <p>
-    Sou acadêmico de Sistemas de Informações na Universidade Federal Rural da Amazônia (UFRA). Com experiência em projetos sociais e conhecimentos nas áreas de desenvolvimento com Java, HTML, CSS e JavaScript.
+    Sou acadêmico de Sistemas de Informação na Universidade Federal Rural da Amazônia (UFRA). Possuo conhecimentos nas áreas de desenvolvimento com Java, HTML, CSS e JavaScript. Também sou ativista climático e participo de projetos sociais.
   </p>
 </div>
 
