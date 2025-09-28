@@ -16,10 +16,7 @@
   ***Para obter mais informações, confira meu portfólio clicando <a href="https://portfolio-wine-beta-68.vercel.app/" target="_blank" rel="noopener noreferrer">aqui</a>.***</p>
   
 </div>
-<div style="display: inline_block"><br>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=murilohenderson&theme=github_dark&show_icons=true">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilohenderson&layout=compact&langs_count=16&theme=github_dark"/>  
-</div>
+
 <br>
 <h1 align="center">Tecnologias </h1>
 <p align="center">Abaixo está uma lista das tecnologias e bibliotecas que ja tive contato.</p>
