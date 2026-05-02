@@ -4,7 +4,7 @@
     Olá, eu me chamo <a href="https://www.linkedin.com/in/murilohenderson">Murilo Henderson</a>!
   </h1>
   <p>
-    Sou acadêmico de Sistemas de Informação na Universidade Federal Rural da Amazônia (UFRA). Possuo conhecimentos nas áreas de desenvolvimento com Java, PHP, HTML, CSS e JavaScript. Também sou ativista climático e participo de projetos sociais.
+    Sou acadêmico de Sistemas de Informação na Universidade Federal Rural da Amazônia (UFRA). Atuo como estagiário em Desenvolvimento Full-Stack com PHP & Laravel, mas também possuo conhecimentos em Java, JavaScript e Python. Sou pesquisador PIBIC, atuando na área de Ciência de Dados e Estatística.
   </p>
 </div>
 
@@ -12,8 +12,6 @@
 <div align="center"> 
   
 <p>
-  
-  ***Para obter mais informações, confira meu portfólio clicando <a href="https://portfolio-wine-beta-68.vercel.app/" target="_blank" rel="noopener noreferrer">aqui</a>.***</p>
   
 </div>
 <div style="display: inline_block"><br>
