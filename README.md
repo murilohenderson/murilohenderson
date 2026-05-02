@@ -4,7 +4,7 @@
     Olá, eu me chamo <a href="https://www.linkedin.com/in/murilohenderson">Murilo Henderson</a>!
   </h1>
   <p>
-    Sou acadêmico de Sistemas de Informação na Universidade Federal Rural da Amazônia (UFRA). Atuo como estagiário em Desenvolvimento Full-Stack com PHP & Laravel, mas também possuo conhecimentos em Java, JavaScript e Python. Sou pesquisador PIBIC, atuando na área de Ciência de Dados e Estatística.
+    Sou acadêmico de Sistemas de Informação na Universidade Federal Rural da Amazônia (UFRA). Atuo como estagiário em Desenvolvimento Full-Stack com PHP & Laravel. Sou pesquisador PIBIC, atuando na área de Geoprocessamento e Sensoriameto remoto com Ciência de Dados e Estatística.
   </p>
 </div>
   
