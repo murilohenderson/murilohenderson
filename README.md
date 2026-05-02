@@ -22,15 +22,14 @@
 <br>
 <h1 align="center">Tecnologias </h1>
 <p align="center">Abaixo está uma lista das tecnologias e bibliotecas que ja tive contato.</p>
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,java,php,laravel,python,r&perline=8"/>
+
 <div>
-  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/HTML.svg" width="45" align="center"> 
-  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/CSS.svg" width="45" align="center"> 
-  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Github.svg" width="45" align="center"> 
-  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/VSCode.svg" width="45" align="center"> 
-  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Java.svg" width="45" align="center"> 
-  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Javascript.svg" width="45" align="center"> 
-  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/PHP.svg" width="45" align="center">
 </div>
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,gitlab,vercel,mysql,npm&perline=6"/>
+
 <br>
 <div>
   <a href="https://instagram.com/murilo.henderson" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
