@@ -64,4 +64,7 @@ Estudante de tecnologia com foco em desenvolvimento e ciência de dados. Ativist
 </td>
 </tr>
 </table>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=murilohenderson&bg_color=0D1117&color=2b58de&line=2b58de&point=2b58de&area=true&hide_border=true&custom_title=Gráfico+de+Contribuições+de+Murilo+Henderson)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 </div>
