@@ -24,7 +24,7 @@ Estudante de tecnologia com foco em desenvolvimento e ciência de dados. Ativist
 
 
 - 🎓 Graduando em Sistemas de Informação (3/8) - Universidade Federal Rural da Amazônia;
-- 💻 Bolsista de Iniciação Científica (PIBIC) no Instituto Nacional de Pesquisas Espeaciais (INPE);
+- 💻 Bolsista de Pesquisa em Ciência de Dados Geoespaciais no Instituto Nacional de Pesquisas Espeaciais (INPE);
 - 💼 Estagiário em Desenvolvimento Web Full-Stack na Companhia de Saneamento do Pará (COSANPA);
 - 🏫 Diretor de Eventos do Centro Acadêmico de Sistemas de Informações (CASI/UFRA);
 - 🧩 Interesse em ciência de dados e inteligência artificial.
