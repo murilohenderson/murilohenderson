@@ -4,9 +4,7 @@
     Olá, eu me chamo <a href="https://www.linkedin.com/in/murilohenderson">Murilo Henderson</a>!
   </h1>
 </div>
-
 ###
-
 <div align="center">
 <table>
 <tr>
@@ -19,14 +17,12 @@
   
 </div>
 
-
 Estudante de tecnologia com foco em desenvolvimento e ciência de dados. Ativista e liderança climática.
 
 
 - 🎓 Graduando em Sistemas de Informação (3/8) - Universidade Federal Rural da Amazônia;
 - 💻 Bolsista de Pesquisa em Ciência de Dados Geoespaciais no Instituto Nacional de Pesquisas Espaciais (INPE);
 - 💼 Estagiário em Desenvolvimento Web Full-Stack na Companhia de Saneamento do Pará (COSANPA);
-- 🏫 Diretor de Eventos do Centro Acadêmico de Sistemas de Informações (CASI/UFRA);
 - 🧩 Interesse em ciência de dados e inteligência artificial.
 
 </br>
