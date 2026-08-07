@@ -4,7 +4,6 @@
     Olá, eu me chamo <a href="https://www.linkedin.com/in/murilohenderson">Murilo Henderson</a>!
   </h1>
 </div>
-###
 <div align="center">
 <table>
 <tr>
