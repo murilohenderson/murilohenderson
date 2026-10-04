@@ -19,7 +19,7 @@
 Estudante de tecnologia com foco em desenvolvimento e ciência de dados. Ativista e liderança climática.
 
 
-- 🎓 Graduando em Sistemas de Informação (3/8) - Universidade Federal Rural da Amazônia;
+- 🎓 Graduando em Sistemas de Informação (4/8) - Universidade Federal Rural da Amazônia;
 - 💻 Bolsista de Pesquisa em Ciência de Dados Geoespaciais no Instituto Nacional de Pesquisas Espaciais (INPE);
 - 💼 Estagiário em Desenvolvimento Web Full-Stack na Companhia de Saneamento do Pará (COSANPA);
 - 🧩 Interesse em ciência de dados e inteligência artificial.
